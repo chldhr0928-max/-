@@ -1,0 +1,5 @@
+node_modules/
+업무백업_*
+*.log
+.DS_Store
+Thumbs.db
