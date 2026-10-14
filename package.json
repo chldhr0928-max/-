@@ -1,0 +1,8 @@
+{
+  "name": "daily-work-manager",
+  "version": "0.1.0",
+  "private": true,
+  "description": "설치 없이 실행하는 날짜별 업무 체크와 이월 관리",
+  "scripts": { "test": "node --test tests/*.test.cjs" },
+  "engines": { "node": ">=20" }
+}
